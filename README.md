@@ -1,2 +1,2 @@
 # AWS-APIGateway-Swagger
-Import swagger docks from aws api gateway
+Import swagger docs from aws api gateway
